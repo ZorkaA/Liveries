@@ -1,1 +1,18 @@
-to add later
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+	<sim>
+		<model>
+			<livery>
+				<name>Federal Express</name>
+				<texture>Liveries/MD-10F/Federal_Express.png</texture>
+				<registration>N306FE</registration>
+				<configuration type="string">cargo</configuration>
+				<enable-configuration-switch type="bool">false</enable-configuration-switch>
+				<has-center-gear type="bool">true</has-center-gear>
+			</livery>
+		</model>
+	</sim>
+
+</PropertyList>
